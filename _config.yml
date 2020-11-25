@@ -108,7 +108,7 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
                     "night": "for(let i=7; i<16; ++i) if(document.body.classList.contains(`theme-base-0`+i.toString(16))) { document.body.classList.remove(`theme-base-0`+i.toString(16)); document.body.classList.add(`theme-base-0`+((i-6)%9+7).toString(16)); break; }",
                     "content": {
                       "link": ["https:\/\/jekyll-theme-WuK.wu-kan.cn"],
-                      "skin": ["¿Quieres cambiarte a mi amigo?", "Déjala tomar unas vacaciones"],
+                      "skin": ["¿Quieres cambiar de ayudante?", "Selecciona un nuevo amigo"],
                       "hidden": true,
                       "custom": [{
                         "selector": "a",
@@ -165,7 +165,7 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
                 }
                 @media (min-aspect-ratio: 2400/1850) {
                   .wrap {
-                    background-image: url(https://raw.githubusercontent.com/cpdmgmarketing/cpdmgmarketing/test/CPDMG%20NOMBRE%20LARGO%20INSTA.webp);
+                    background-image: url(https://raw.githubusercontent.com/cpdmgmarketing/cpdmgmarketing/test/assets/image/cpdmg/CPDMG%20NOMBRE%20LARGO%20INSTA.webp);
                   }
                 }
                 .sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
@@ -682,6 +682,7 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
               }
               .reveal .slides {
                 text-align: left;
+
               }
               .reveal a {
                 color: #268BD2;

@@ -2,23 +2,27 @@
 title: Home
 ---
 
-## CPDMG
+<h2 style="color:#fe88ae; font-family:nickainley;">CPDMG</h2> 
 
-C&P Digital Marketing Group
+<h3 style="color:#131661; font-family:nickainley;">Digital Marketing Group</h3> 
 
-Ya eres parte de las nuevas tendencias???
+
+
+<h4 style="color:#00FFFF; font-family:nickainley;">Ya eres parte de las nuevas tendencias??? 😉</h4>
 
 <!-- .slide -->
 
-### ¿Quiénes Somos?
+### ¿Quiénes Somos? <span style="background: #ff0000;">
 
-Somos una agencia que busca implementar herramientas digitales para su negocio con un enfoque en el vuelco hacia el Marketing Digital. 
+Somos una agencia de marketing y publicidad que busca apoyar a las PYMEs implementando herramientas digitales para que sus negocios. 
+
+Así usted tendrá la posibilidad de ingresar al mundo del Mercado Digital. 😎 
 
 <!-- .slide vertical=true -->
 
 ### ¿Qué Hacemos?
 
-Enfócate en tu negocio mientras CPDMG realiza tu publicidad por ti!!!
+Enfócate en tu negocio mientras CPDMG realiza la publicidad por ti!!! 🤩
 
 A más de ofrecerte publicidad para tu negocio, nos enfocamos en Visibilizar tu marca manteniéndote a la vanguardia en las últimas Tendencias. 
 
@@ -32,32 +36,32 @@ Ofrecer soluciones de mercado de forma digitalizada que peritan mejorar la compe
 
 ### Visión
 
-Apoyar a las PYMEs a lograr un posicionamiento digital correcto para ser más competitivas en el actual mercado, y a la vez intentar acercar de una forma sencilla y asequible a las pequeñas y medianas empresas al desarrollo de estrategias de marketing digital en internet.
+Ser un referente en el nuevo concepto de marketig y publicidad para los negocios en el mercado digital, desarrollando innnovadoras y mejores estrategias para todos nuestros clientes y en todas las áreas.
 
 
 <!-- .slide -->
 
 ### Valores
 
-Confianza
+- Confianza
 
-Lealtad
+- Lealtad
 
-Creatividad
+- Creatividad
 
-Pasión por el trabajo
+- Pasión por el trabajo
 
-Perseverancia
+- Perseverancia
 
-Compromiso
+- Compromiso
 
-Trabajo en equipo
+- Trabajo en equipo
 
 <!-- .slide vertical=true -->
 ### Síguenos en Nuestras Redes !!!
-Encuéntranos como CPDMG, 
+Encuéntranos como CPDMG 
 
-Dame clic (¨,) y un Me Gusta
+Dame clic y un Me Gusta 👍
 
  [Facebook](https://www.facebook.com/CPDMG) 
  
