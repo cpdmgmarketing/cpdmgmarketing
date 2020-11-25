@@ -170,7 +170,7 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
                     transition-timing-function: ease-in-out;
                     display: inline-block;
                     background-size: 100% 90%;
-                    background-position: 0% 0%;
+                   background-position: 0% 0%;
                     background-repeat: repeat;
                     background-attachment: fixed;
                     background-image: url(https://raw.githubusercontent.com/cpdmgmarketing/cpdmgmarketing/test/assets/image/cpdmg/CPDMG_Portada_diseno.webp);
