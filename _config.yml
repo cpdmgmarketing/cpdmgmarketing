@@ -165,7 +165,15 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
                 }
                 @media (min-aspect-ratio: 2400/1850) {
                   .wrap {
-                    background-image: url(https://raw.githubusercontent.com/cpdmgmarketing/cpdmgmarketing/test/assets/image/cpdmg/CPDMG%20NOMBRE%20LARGO%20INSTA.webp);
+                    transition-property: width,background-size,transform;
+                    transition-duration: .3;
+                    transition-timing-function: ease-in-out;
+                    display: inline-block;
+                    background-size: 100% 90%;
+                    background-position: 0% 0%;
+                    background-repeat: repeat;
+                    background-attachment: fixed;
+                    background-image: url(https://raw.githubusercontent.com/cpdmgmarketing/cpdmgmarketing/test/assets/image/cpdmg/CPDMG_Portada_diseno.webp);
                   }
                 }
                 .sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
@@ -718,13 +726,13 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
 
 compress_html: # <https://github.com/penibelst/jekyll-compress-html>
   clippings: all
-  comments: [] # Los comentarios no se pueden comprimir, de lo contrario reveal.js La pantalla de corte ppt se ve afectada
+  comments: [ ] # Los comentarios no se pueden comprimir, de lo contrario reveal.js La pantalla de corte ppt se ve afectada
   endings: all
   ignore:
-    envs: []
+    envs: [ ]
   blanklines: false
   profile: false
-  startings: []
+  startings: [ ]
 
 # githubpageVea los complementos compatibles en<https://pages.github.com/versions/>
 plugins: # <https://jekyllrb.com/docs/plugins/>
