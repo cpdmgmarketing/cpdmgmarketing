@@ -56,3 +56,4 @@ build-iPhoneSimulator/
 # .rubocop-https?--*
 /_site/
 /prueba.html
+/.idea/workspace.xml
