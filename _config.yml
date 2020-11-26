@@ -109,7 +109,7 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
                     "night": "for(let i=7; i<16; ++i) if(document.body.classList.contains(`theme-base-0`+i.toString(16))) { document.body.classList.remove(`theme-base-0`+i.toString(16)); document.body.classList.add(`theme-base-0`+((i-6)%9+7).toString(16)); break; }",
                     "content": {
                       "link": ["https:\/\/jekyll-theme-WuK.wu-kan.cn"],
-                      "skin": ["¿Quieres cambiar de ayudante?", "Selecciona un nuevo amigo"],
+                      "skin": ["Selecciona un nuevo ayudante"],
                       "hidden": true,
                       "custom": [{
                         "selector": "a",
@@ -131,7 +131,7 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
                         "text": "Este es el titulo"
                       }, {
                         "selector": ".v",
-                        "text": "Los comentarios no han sido revisados y usted es responsable de sus propios comentarios"
+                        "text": "Los comentarios no han sido revisados y usted es responsable por los mismos"
                       }]
                     },
                     "model": [
@@ -576,7 +576,7 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
                     "el": x,
                     "appId": "9hABRddSuEkTgqLrt1VSK5B1-gzGzoHsz",
                     "appKey": "NJ7RwmgrxsF7KDzlqU7YewlL",
-                    "placeholder": "¡Comenta aquí! Complete el buzón para obtener Gravatar Notificación de avatar y respuesta",
+                    "placeholder": "¡Comenta aquí! Completa el buzón para obtener tu respuesta",
                     "requiredFields": ["nick","mail"],
                     "visitor": true,
                     "recordIP": true
