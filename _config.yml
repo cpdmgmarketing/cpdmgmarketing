@@ -242,9 +242,9 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
             nav: # En la parte de navegación, también puede agregar texto, iconos (de fontawesome) y los enlaces correspondientes usted mismo
               - title: '<i class="fas fa-home fa-fw"></i> Home'
                 href: /
-              - title: '<i class="fas fa-comments fa-fw"></i> Comentarios'
+              - title: '<i class="fas fa-comments fa-fw"></i> Comentarios y Preguntas'
                 href: /comments/
-              - title: '<i class="fas fa-tags fa-fw"></i> Tienda'
+              - title: '<i class="fas fa-tags fa-fw"></i> Servicios'
                 href: /tags/
               - title: '<i class="fas fa-archive fa-fw"></i> Potafolio'
                 href: /archive/
