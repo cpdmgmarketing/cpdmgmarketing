@@ -1,24 +1,20 @@
-title: wu-kan # Título del sitio
+title: CPDMG # Título del sitio
 description: | # Información detrás del avatar (formato html), <br/> representa un salto de línea
   Marketing Digital<br/>
   para tu negocio<br/>
   Confía en <br/>
   CPDMG<br/>
-  <a href="mailto:i@wu-kan.cn">
+  <a href="mailto:ventas@cpdmgmarketing.com">
     <i class="fas fa-envelope"></i>
   </a>
-  <a href="https://github.com/wu-kan">
+  <a href="https://www.facebook.com/CPDMG/reviews">
     <i class="fab fa-github"></i>
   </a>
-  <a href="https://codeforces.com/profile/WuK">
+  <a href="https://www.facebook.com/CPDMG/community">
     <i class="fas fa-chart-bar"></i>
   </a>
-  <a href="https://vjudge.net/user/WuK">
-    <i class="fas fa-smile"></i>
-  </a>
-  <a href="https://www.zhihu.com/people/wu.kan/activities">
-    <i class="fab fa-zhihu"></i>
-  </a>
+
+
 
   <iframe
     src="https://music.163.com/outchain/player?type=0&id=2434408895&auto=0&height=32"
@@ -67,7 +63,7 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
               <link
                 rel="shortcut
                 icon"
-                href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=32"
+                href="https://raw.githubusercontent.com/cpdmgmarketing/cpdmgmarketing/test/assets/image/cpdmg/cpdmg_logo.png"
               />
             - | # El estilo de página de lanyon, no lo cambie
               <link
@@ -108,8 +104,8 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
                     "hidden": true,
                     "night": "for(let i=7; i<16; ++i) if(document.body.classList.contains(`theme-base-0`+i.toString(16))) { document.body.classList.remove(`theme-base-0`+i.toString(16)); document.body.classList.add(`theme-base-0`+((i-6)%9+7).toString(16)); break; }",
                     "content": {
-                      "link": ["https:\/\/jekyll-theme-WuK.wu-kan.cn"],
-                      "skin": ["Selecciona un nuevo ayudante"],
+                      "link": ["https://www.facebook.com/CPDMG"],
+                      "skin": ["Selecciona un ayudante"],
                       "hidden": true,
                       "custom": [{
                         "selector": "a",
@@ -119,10 +115,10 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
                         "text": "Abre la barra lateral"
                       }, {
                         "selector": ".effect-info",
-                        "text": "¡Vaya, qué encontraste!"
+                        "text": "¿Que encontraste?"
                       }, {
                         "selector": "#sidebar-search-input",
-                        "text": "¿Qué quieres buscar? ¡Muchos productos secos!"
+                        "text": "¿Qué quieres buscar?"
                       }, {
                         "selector": "#toc",
                         "text": "Este es el directorio "
@@ -154,7 +150,7 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
               <style>
                 .wrap {
                   transition-property: width,background-size,transform;
-                  transition-duration: .3s;
+                  transition-duration: .7s;
                   transition-timing-function: ease-in-out;
                   min-height: 100%;
                   display: inline-block;
@@ -162,15 +158,15 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
                   background-position: 0% 0%;
                   background-repeat: no-repeat;
                   background-attachment: fixed;
-                  background-image: url(https://Mizuno-Ai.wu-kan.cn/pixiv/74559485_p1.webp);
+                  background-image: url(https://raw.githubusercontent.com/cpdmgmarketing/cpdmgmarketing/test/assets/image/cpdmg/CPDMG_Portada_diseno.webp);
                 }
                 @media (min-aspect-ratio: 2400/1850) {
                   .wrap {
                     transition-property: width,background-size,transform;
-                    transition-duration: .3;
+                    transition-duration: .7;
                     transition-timing-function: ease-in-out;
                     display: inline-block;
-                    background-size: 100% 90%;
+                    background-size: 100% 100%;
                    background-position: 0% 0%;
                     background-repeat: no-repeat;
                     background-attachment: fixed;
@@ -231,7 +227,7 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
               <style>
                 ::selection {
                   color: White;
-                  background: Black;
+                  background: pink;
                 }
               </style>
           sidebar: # Bajo este elemento de configuración hay algunas configuraciones sobre la barra lateral
@@ -244,6 +240,8 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
                 href: /
               - title: '<i class="fas fa-comments fa-fw"></i> Comentarios y Preguntas'
                 href: /comments/
+              - title: '<i class="fas fa-comments fa-fw"></i> Comentarios y Preguntas2'
+                href: /assets/Comments.html
               - title: '<i class="fas fa-tags fa-fw"></i> Servicios'
                 href: /tags/
               - title: '<i class="fas fa-archive fa-fw"></i> Potafolio'
@@ -349,16 +347,16 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
                   <i class="fas fa-cog fa-spin fa-fw"></i>
                   <span id="run_time_day">
                     <i class="fas fa-spinner fa-pulse"></i>
-                  </span> Día
+                  </span>d
                   <span id="run_time_hour">
                     <i class="fas fa-spinner fa-pulse"></i>
-                  </span> Horas
+                  </span>h
                   <span id="run_time_minute">
                     <i class="fas fa-spinner fa-pulse"></i>
-                  </span> Minutos
+                  </span>min
                   <span id="run_time_second">
                     <i class="fas fa-spinner fa-pulse"></i>
-                  </span> Segundos
+                  </span>seg
                   <script>
                     setInterval(function (d,h,m,s,b) {
                       function setzero(i) {
@@ -396,19 +394,14 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
                     <i class="fas fa-eye fa-fw"></i>
                     <span id="busuanzi_value_page_pv">
                       <i class="fas fa-spinner fa-pulse"></i>
-                    </span> Veces
+                    </span> VISTAS
                   </div>
-                  <div>
-                    <i class="fas fa-paw fa-fw"></i>
-                    <span id="busuanzi_value_site_pv">
-                      <i class="fas fa-spinner fa-pulse"></i>
-                    </span> Piezas
-                  </div>
+
                   <div>
                     <i class="fas fa-user-friends fa-fw"></i>
                     <span id="busuanzi_value_site_uv">
                       <i class="fas fa-spinner fa-pulse"></i>
-                    </span> Gente
+                    </span> SEGUIDORES
                   </div>
                   <script
                     src='https://cdn.jsdelivr.net/npm/busuanzi@2.3.0'
@@ -418,8 +411,8 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
               - | # Si crees que mi tema es útil, ¡díselo a más personas!
                 <div>
                   <i class="fas fa-thumbs-up fa-fw"></i>
-                  <a href="https://www.cpdmgmarketing.com">
-                    www.cpdmgmarketing.com
+                  <a href="https://www.facebook.com/CPDMG">
+                    facebook
                   </a>
                 </div>
               - | # Copyright declaración
@@ -429,18 +422,13 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
                 </div>
               - | # Mi información de registro, elimine este elemento de su sitio web. ¡Internet es ilegal afuera!
                 <div>
-                  <i class="fas fa-info-circle fa-fw"></i>
-                  <a href="http://beian.miit.gov.cn">
+                  <i class="fas fa-map-marked-alt"></i>
+                  <a href="https://goo.gl/maps/koDa4iUkxvCp9ALk8">
                     Quito - Ecuador
                   </a>
                 </div>
               - | # Información de la red de seguridad pública
-                <div>
-                  <img src="http://www.beian.gov.cn/img/new/gongan.png" class="fa-fw"></img>
-                  <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=34070202000407">
-                    Sitio Seguro
-                  </a>
-                </div>
+
             wordcount: # Recuento de palabras de la estación total
               enable: false # Se recomienda apagar durante la depuración local, lo que afecta en gran medida la velocidad de generación del sitio (el tiempo requerido es proporcional al cuadrado del número de publicaciones en el blog)
               prepend: <i class="fas fa-user-edit fa-fw"></i>
@@ -567,21 +555,7 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
             <div class="v">
               <i class="fas fa-spinner fa-pulse"></i>
             </div>
-            <script
-              src='https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js'
-              async="async"
-              onload='
-                for(let x of document.getElementsByClassName("v"))
-                  new Valine({
-                    "el": x,
-                    "appId": "9hABRddSuEkTgqLrt1VSK5B1-gzGzoHsz",
-                    "appKey": "NJ7RwmgrxsF7KDzlqU7YewlL",
-                    "placeholder": "¡Comenta aquí! Completa el buzón para obtener tu respuesta",
-                    "requiredFields": ["nick","mail"],
-                    "visitor": true,
-                    "recordIP": true
-                  })'
-            ></script>
+
         post:
           date: # Mostrar hora de publicación de blog
             enable: true
@@ -606,7 +580,7 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
             | # Mi artículo utiliza el acuerdo de intercambio creativo más liberal: atribución 4.0 Internacional (CC BY 4.0)。Puede libremente: compartir - copiar y distribuir este trabajo en cualquier medio y en cualquier forma; interpretación — Modificar, convertir o crear sobre la base de este trabajo; para cualquier propósito, incluso con fines comerciales. Siempre que cumpla con los términos del acuerdo de licencia, el licenciante no puede recuperar sus derechos. Sin embargo, se deben cumplir las siguientes condiciones: Atribución — Debe dar una atribución adecuada, proporcionar un enlace a este acuerdo de licencia e indicar si (el trabajo original) ha sido modificado. Puede utilizar cualquier forma razonable de firmar，Pero no debe insinuar de ninguna manera que el licenciante lo respalda a usted o su uso。
             <br/>
             <i class="fas fa-coffee fa-fw"></i>
-            <a href="/merger/">Si este blog te ayuda, puedes invitarme a una taza de café </a>
+            <a href="/merger/">Si esta información te ayuda, ahora consulta nuestros precios </a>
             <br/>
             <i class="fab fa-creative-commons-by fa-fw"></i>
             <a
@@ -679,7 +653,9 @@ defaults: # Configure todas las opciones de configuración utilizando la funció
             - key: data-separator-vertical # Separador de páginas de visualización vertical
               value: <!-- .slide vertical=true -->
             - key: data-background-color
-              value: "White"
+#              value: "#FFF3C0"
+#              value: "#86CFFF"
+              value: "#140133"
           prepend: |
             <link
               rel="stylesheet"

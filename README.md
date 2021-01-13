@@ -4,7 +4,7 @@ title: Home
 
 <h2 style="color:#fe88ae; font-family:nickainley;">CPDMG</h2> 
 
-<h3 style="color:#131661; font-family:nickainley;">Digital Marketing Group</h3> 
+<h3 style="color:#F7d500; font-family:nickainley;">Digital Marketing Group</h3> 
 
 
 
@@ -12,36 +12,38 @@ title: Home
 
 <!-- .slide -->
 
-<h3 style="color:#131661; font-family:nickainley;">¿QuiénesSomos?</h3> 
+<h3 style="color:#F7d500; font-family:nickainley;">¿Quiénes Somos?</h3> 
 
-Somos una agencia de marketing y publicidad que busca apoyar a las PYMEs implementando herramientas digitales para que sus negocios. 
+<h4 style="color:white; font-family:nickainley;">Somos una agencia que se dedica a la generación de marketing, publicidad, gestión de redes sociales, creación de páginas web y diseños exclusivos para su marca.</h4> 
 
-Así usted tendrá la posibilidad de ingresar al mundo del Mercado Digital. 😎 
+<h4 style="color:white; font-family:nickainley;">Así usted tendrá la posibilidad de ingresar al mundo del Mercado Digital. 😎 .</h4> 
 
 <!-- .slide vertical=true -->
 
 <h3 style="color:#fe88ae; font-family:nickainley;">¿Qué Hacemos?</h3>
 
-Enfócate en tu negocio mientras CPDMG realiza la publicidad por ti!!! 🤩
+<h4 style="color:white; font-family:nickainley;">Enfócate en tu negocio mientras CPDMG realiza la publicidad por ti!!! 🤩 </h4> 
 
-A más de ofrecerte publicidad para tu negocio, nos enfocamos en Visibilizar tu marca manteniéndote a la vanguardia en las últimas Tendencias. 
+<h4 style="color:white; font-family:nickainley;">A más de ofrecerte publicidad para tu negocio, nos enfocamos en Visibilizar tu marca manteniéndote a la vanguardia en las últimas Tendencias. </h4> 
 
 <!-- .slide -->
 
-<h3 style="color:#131661; font-family:nickainley;">Misión</h3>
+<h3 style="color:#F7d500; font-family:nickainley;">Misión</h3>
 
-Ofrecer soluciones de mercado de forma digitalizada que peritan mejorar la competitividad y productividad de tu marca, producto o servicio, generando un impacto en conversiones efectivas al fidelizar el mercado y promover el crecimiento constante organizacional de nuestros clientes.
+<h4 style="color:white; font-family:nickainley;">Ofrecer soluciones de mercado de forma digitalizada que permitan mejorar la competitividad y productividad de tu marca, producto o servicio, generando un impacto en conversiones efectivas al fidelizar el mercado y promover el crecimiento constante organizacional de nuestros clientes.</h4> 
 
 <!-- .slide vertical=true -->
 
 <h3 style="color:#fe88ae; font-family:nickainley;">Visión</h3>
 
-Ser un referente en el nuevo concepto de marketig y publicidad para los negocios en el mercado digital, desarrollando innnovadoras y mejores estrategias para todos nuestros clientes y en todas las áreas.
+<h4 style="color:white; font-family:nickainley;">Ser un referente en el nuevo concepto de marketig y publicidad para los negocios en el mercado digital, desarrollando innnovadoras y mejores estrategias para todos nuestros clientes y en todas las áreas.  </h4> 
 
 
 <!-- .slide -->
 
 <h3 style="color:#00FFFF; font-family:nickainley;">Valores</h3>
+
+<h4 style="color:white; font-family:nickainley;">
 
 - Confianza
 
@@ -55,13 +57,13 @@ Ser un referente en el nuevo concepto de marketig y publicidad para los negocios
 
 - Compromiso
 
-- Trabajo en equipo
+- Trabajo en equipo  </h4> 
 
 <!-- .slide vertical=true -->
 <h3 style="color:#00FFFF; font-family:nickainley;">Síguenos en Nuestras Redes</h3>
-Encuéntranos como CPDMG 
+<h4 style="color:white; font-family:nickainley;">Encuéntranos como CPDMG 
 
-Dame clic y un Me Gusta 👍
+Dame clic y un Me Gusta 👍 </h4> 
 
  [Facebook](https://www.facebook.com/CPDMG) 
  
